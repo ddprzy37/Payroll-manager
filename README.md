@@ -12,7 +12,8 @@ Technologies Used:
 * JavaScript
 
 Preview:
-Please see the Assets for preview.
+Please see the Assets folder for preview images.
+
 
 License
 
